@@ -1,0 +1,10 @@
+{
+  "description": "A premium portfolio website that showcases a professional’s projects, experience, and skills through a distinctive, polished layout.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
